@@ -4,7 +4,7 @@
 
 **Apocalypse Flyleague (APOCFLY)** 是一个完全开源、旨在降低模拟飞行平台搭建与运营门槛的技术共享项目。我们汇集了从平台架构、人员训练到日常运营的全套核心资源，将我们在实践中积累的宝贵经验转化为标准化、可复用的解决方案。
 
-  * **维护者：** @ [Master_Gui](https://github.com/supermastergui) ; @ [half-nothing](https://github.com/half-nothing) ; @ [XiaoZhang-store](https://github.com/XiaoZhang-store) ; @ [DamnQuan](https://github.com/DamnQuan)
+  * **维护者：** @[Master_Gui](https://github.com/supermastergui) ; @[half-nothing](https://github.com/half-nothing) ; @[XiaoZhang-store](https://github.com/XiaoZhang-store) ;
   * **愿景：** 通过开源共享，促进整个模拟飞行社区的健康与繁荣。
 
 ## 🛠️ **核心资源与优势**
